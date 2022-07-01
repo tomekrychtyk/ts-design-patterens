@@ -1,0 +1,15 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomekrychtyk/ts-design-patterens.git",
+  "author": "Tomek <tomek@rychtyk.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/faker": "5.5.9",
+    "faker": "5.5.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
